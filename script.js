@@ -59,7 +59,7 @@ const messages = [
     "Ya dice que si apura?",
     "Aby porfavorrr...",
     "Piensalo bien...",
-    "Si dices que no me voy a poner triste"
+    "Si dices que no me voy a poner triste",
     "Muy triste...",
     "Muy muy triste...",
     "Esta bien,ya dejo de preguntar...",
