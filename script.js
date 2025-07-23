@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Estas segura?",
+    "Segurisisisima??",
+    "Ya dice que si apura?",
+    "Aby porfavorrr...",
+    "Piensalo bien...",
+    "Si dices que no me voy a poner triste"
+    "Muy triste...",
+    "Muy muy triste...",
+    "Esta bien,ya dejo de preguntar...",
+    "Mentira jajaja, ya di que si porfa ❤️"
 ];
 
 let messageIndex = 0;
